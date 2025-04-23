@@ -1,0 +1,6 @@
+*.Rda
+*.rds
+*.DS_Store
+*.Rproj
+*.txt
+.Rproj.user
